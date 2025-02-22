@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "dcqinv",
+	"version": "${version}",
+	"name": "Inventory+",
+	"description": "A bigger and cooler inventory for gameplay.",
+	"authors": [
+		"Dcqout"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MPL-2.0",
+	"icon": "assets/dcqinv/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.dcqinv.dcqinv"
+		]
+	},
+	"mixins": [
+		"dcqinv.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
