@@ -4,4 +4,5 @@
 <a href="https://github.com/dcqout/dcqinv"><img src=https://img.shields.io/badge/License-MPL2.0-blue.svg alt="MPL2.0"></a>
 </h1>
 
+Neoforge template: https://github.com/dcqout/dcqinv/tree/neoforge-1.21.4
 <p>Check out the modrinth page <strong>https://modrinth.com/mod/inventory+</strong></p>
